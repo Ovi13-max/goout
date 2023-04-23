@@ -14,7 +14,7 @@ const index = () => {
                 className="text-60 lg:text-40 md:text-30 text-white"
                 data-aos="fade-up"
               >
-                Găsiți următorul loc mai nou de vizitat !
+                Găsiți următorul loc mai nou de vizitat !!
               </h1>
               <p
                 className="text-white mt-6 md:mt-10"
